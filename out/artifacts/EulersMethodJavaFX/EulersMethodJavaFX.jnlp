@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="EulersMethodJavaFX.jnlp">
+  <information>
+    <title>EulersMethodJavaFX</title>
+    <vendor>Unknown</vendor>
+    <description>EulersMethodJavaFX</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="EulersMethodJavaFX.jar" size="10785" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="numericalmethods.Main"  name="EulersMethodJavaFX" />
+  <update check="background"/>
+</jnlp>
